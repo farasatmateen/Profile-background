@@ -2,12 +2,12 @@ import React from 'react'
 
 function Introduction() {
   return (
-    <div className='text-5xl ml-[30px] md:ml-[80px] mt-[150px] font-serif text-red-500'>
+    <div className='text-5xl ml-[30px] md:ml-[80px] mt-[150px] font-serif text-green-500'>
       Hello! <br/>
-      I am Farasat Mateen<br/>
-      <span className='text-3xl font-bold text-blue-600'>Electronic Engineer</span>
-      <p className='text-blue-300 text-base'>Talent Acquisition Lead 
-      <br/> Exide Pakistan Limited <br/>
+      I am Sameed Mateen<br/>
+      <span className='text-3xl font-bold text-green-600'>Chemical Engineer</span>
+      <p className='text-green-300 text-base'>Process Engineer as well as Web Developer  
+      <br/> Auvitronics Pvt Ltd(H0H) <br/>
       </p>
     </div>
   )
